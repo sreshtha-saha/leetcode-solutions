@@ -19,11 +19,13 @@
 | [0205-isomorphic-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
