@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
