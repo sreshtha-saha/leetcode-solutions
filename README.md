@@ -83,6 +83,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
