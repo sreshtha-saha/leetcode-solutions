@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0202-happy-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
