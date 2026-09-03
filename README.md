@@ -15,6 +15,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
