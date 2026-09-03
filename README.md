@@ -11,6 +11,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
