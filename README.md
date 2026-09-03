@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
