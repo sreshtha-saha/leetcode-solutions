@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
