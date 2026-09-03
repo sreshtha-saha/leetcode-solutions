@@ -35,6 +35,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
 |  |
 | ------- |
