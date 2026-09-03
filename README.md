@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
