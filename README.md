@@ -51,6 +51,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
