@@ -6,16 +6,19 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -57,4 +60,16 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
