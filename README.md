@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,12 +21,14 @@
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +57,7 @@
 | [0190-reverse-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +89,7 @@
 | [0231-power-of-two](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +145,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
