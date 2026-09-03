@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
