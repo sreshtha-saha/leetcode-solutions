@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0191-number-of-1-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
