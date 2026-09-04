@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0290-word-pattern](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0231-power-of-two](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
