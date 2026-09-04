@@ -150,20 +150,24 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Backtracking
 |  |
 | ------- |
