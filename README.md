@@ -76,6 +76,7 @@
 | [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0268-missing-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
