@@ -126,6 +126,7 @@
 | [0292-nim-game](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0278-first-bad-version](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
