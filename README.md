@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
