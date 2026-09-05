@@ -77,6 +77,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 ## Bit Manipulation
 |  |
