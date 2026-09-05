@@ -200,6 +200,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
