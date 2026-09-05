@@ -184,6 +184,7 @@
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
@@ -192,6 +193,7 @@
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
@@ -199,6 +201,7 @@
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
@@ -206,6 +209,7 @@
 | [0226-invert-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
