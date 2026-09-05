@@ -25,6 +25,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
 | ------- |
