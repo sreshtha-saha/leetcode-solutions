@@ -23,6 +23,7 @@
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@
 | [0504-base-7](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
