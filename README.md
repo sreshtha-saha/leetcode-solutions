@@ -93,6 +93,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0504-base-7) |
 ## Divide and Conquer
 |  |
 | ------- |
