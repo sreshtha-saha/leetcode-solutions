@@ -23,6 +23,7 @@
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0520-detect-capital](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
