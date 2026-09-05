@@ -26,6 +26,7 @@
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0414-third-maximum-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0507-perfect-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
