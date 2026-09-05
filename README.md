@@ -136,6 +136,7 @@
 | [0326-power-of-three](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
