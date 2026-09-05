@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Interactive
 |  |
 | ------- |
