@@ -20,6 +20,7 @@
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0409-longest-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Bit Manipulation
 |  |
 | ------- |
