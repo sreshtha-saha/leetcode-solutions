@@ -26,6 +26,7 @@
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0414-third-maximum-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@
 | [0392-is-subsequence](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Interactive
 |  |
 | ------- |
@@ -286,6 +290,7 @@
 | [0409-longest-palindrome](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Quicksort
 |  |
 | ------- |
