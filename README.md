@@ -55,6 +55,7 @@
 | [0500-keyboard-row](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0696-count-binary-substrings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
