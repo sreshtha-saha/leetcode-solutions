@@ -33,6 +33,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
