@@ -32,6 +32,7 @@
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,6 +310,7 @@
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
