@@ -39,6 +39,7 @@
 | [0908-smallest-range-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0605-can-place-flowers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Quicksort
 |  |
 | ------- |
