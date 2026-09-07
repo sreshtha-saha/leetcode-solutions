@@ -31,6 +31,7 @@
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0389-find-the-difference](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
