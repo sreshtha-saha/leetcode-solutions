@@ -139,6 +139,7 @@
 | [0476-number-complement](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0868-binary-gap) |
 ## Linked List
 |  |
 | ------- |
