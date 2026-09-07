@@ -179,6 +179,7 @@
 | [0509-fibonacci-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -349,4 +350,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
