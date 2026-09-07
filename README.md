@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 ## Bit Manipulation
 |  |
 | ------- |
