@@ -38,6 +38,7 @@
 | [0905-sort-array-by-parity](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
@@ -279,6 +280,7 @@
 | [0412-fizz-buzz](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## Number Theory
 |  |
 | ------- |
