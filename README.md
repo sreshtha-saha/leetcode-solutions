@@ -88,6 +88,7 @@
 | [0455-assign-cookies](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0541-reverse-string-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0696-count-binary-substrings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
