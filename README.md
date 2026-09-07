@@ -36,6 +36,7 @@
 | [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0908-smallest-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0598-range-addition-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0908-smallest-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
