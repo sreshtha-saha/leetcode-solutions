@@ -40,6 +40,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0771-jewels-and-stones](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
