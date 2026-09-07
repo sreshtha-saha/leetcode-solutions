@@ -41,6 +41,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0989-add-to-array-form-of-integer](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -368,6 +369,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Binary Search Tree
 |  |
 | ------- |
