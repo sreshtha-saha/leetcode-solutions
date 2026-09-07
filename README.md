@@ -222,6 +222,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
