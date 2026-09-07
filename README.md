@@ -29,6 +29,7 @@
 | [0611-valid-triangle-number](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
