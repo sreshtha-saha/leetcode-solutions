@@ -43,6 +43,7 @@
 | [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,4 +387,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
