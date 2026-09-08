@@ -46,6 +46,7 @@
 | [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1720-decode-xored-array) |
+| [1929-concatenation-of-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1929-concatenation-of-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
