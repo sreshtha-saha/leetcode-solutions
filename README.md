@@ -47,6 +47,7 @@
 | [1672-richest-customer-wealth](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
