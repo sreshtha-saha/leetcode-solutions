@@ -45,6 +45,7 @@
 | [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0868-binary-gap) |
+| [1720-decode-xored-array](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1720-decode-xored-array) |
 ## Linked List
 |  |
 | ------- |
