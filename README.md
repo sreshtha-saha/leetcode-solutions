@@ -44,6 +44,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1051-height-checker) |
+| [1672-richest-customer-wealth](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [0766-toeplitz-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
