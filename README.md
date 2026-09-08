@@ -147,6 +147,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0859-buddy-strings](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1678-goal-parser-interpretation](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sreshtha-saha/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
